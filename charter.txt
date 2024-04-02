@@ -2,7 +2,7 @@ Group Charter: Your Team Name
 
 Meetings: 
   In-Person Times:
-    * Tuesdays (2:30 PM - 4:20 PM)
+    * Tuesday (2:30 PM - 4:20 PM)
   Virtual Times:
     *
 
@@ -75,17 +75,3 @@ Name  Obaideh Alshammari          Date Tue Apr 2, 2024
 Name  Lord Elgin Raguero          Date Tue Apr 2, 2024
 Name  Cainan Garison Squibb       Date Tue Apr 2, 2024
 Name  Anthony Xavier Velez        Date Tue Apr 2, 2024
-
-test test test
-
-new line
-
-please pull
-
-
-adlakflaskf a
-
-
-dasd
-
-asd
