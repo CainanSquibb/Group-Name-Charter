@@ -51,6 +51,8 @@ Group standards, regarding quality and timeliness of work, are important to upho
 It is understood that people are busy with other classes and school work. If by group consciousness it is obvious that a member is unprepared for a meeting, and their unpreparedness creates a hindrance to the group and project, then disciplinary action will have to take place. Unpreparedness of this form will immediately result in a warning then a minor offence hereafter.
 4. Workload too heavy:
 If with the time restraints and number of group members actively participating is not sufficient enough to complete the task, a plea of mercy will be sent to the Rock via email and in person which logs the details of the amount of work to be done, the status of how far we are, and why we can‟t complete it in that time period.
+5. Definition of done:
+We will consider a task done when the taks/ code is reviewed and inspected by another team member. Once reviewed by the team member, task/code will then be approved and sent to the main branch. Once it has been added to the main branch the task is considered done. 
 
 Work Norms:
 1. Time commitment required by each group member:
